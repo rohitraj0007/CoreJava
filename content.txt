@@ -1,0 +1,9 @@
+1. equal and equals
+2. string pool
+3. string vs char array
+4. volatile static synchronize
+5. blocks running sequence
+7. constructor
+8. immutable class
+9. different memory space
+10. 
