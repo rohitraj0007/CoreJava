@@ -1,4 +1,4 @@
-1. equal and equals
+1. == and equals
 2. string pool
 3. string vs char array
 4. volatile static synchronize
